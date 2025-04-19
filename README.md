@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual Mouse Using Hand Gestures 🎮🖱️
 
 A Python-based project that enables touchless computer interaction through real-time hand gesture recognition. This virtual mouse uses computer vision to track hand movements and perform actions like mouse movement, left-click, right-click, double-click, and taking screenshots.
@@ -101,3 +102,6 @@ Feel free to contribute by:
 
 ## Contact 📨
 If you have any questions, feel free to reach out or open an issue in the repository!
+=======
+# virtual-mouse
+>>>>>>> 68ae22aae06166e81d4c8b577415ebe7a6a4b254
